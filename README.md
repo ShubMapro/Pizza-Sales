@@ -7,12 +7,14 @@
 
 **Insights:**
 The following metrics and insights are intended to offer a comprehensive understanding of sales performance, customer preferences, and trends.
+
 **Key Performance Indicators (KPIs):**
 •	Total Revenue: $817,860.05
 •	Average Order Value (AOV): $38.31
 •	Total Pizzas Sold: 49,574
 •	Total Orders: 21,350
 •	Average Pizzas Per Order: 2.32
+
 **Key Insights:**
 **1.	Daily Trend for Total Orders:** Highest Orders on Friday and Lowest Orders on Sunday.
 
