@@ -24,26 +24,12 @@ a.	Top Category: Classic Pizza
 3.	Percentage of Sales by Pizza Size:
 a.	Top Size: Large Pizza
 
-4.	Top 5 Pizzas by Revenue:
-a.	The Thai Chicken Pizza
-b.	The Barbecue Chicken Pizza
-c.	The California Chicken Pizza
-d.	The Classic Deluxe Pizza
-e.	The Spicy Italian Pizza
+4.	Top 5 Pizzas by Revenue: The Thai Chicken Pizza, The Barbecue Chicken Pizza, The California Chicken Pizza, The Classic Deluxe Pizza, The Spicy Italian Pizza
 
-5.	Top 5 Pizzas by Quantity Sold:
-a.	The Classic Deluxe Pizza
-b.	The Barbecue Chicken Pizza
-c.	The Hawaiian Pizza
-d.	The Pepperoni Pizza
-e.	The Thai Chicken Pizza
+5.	Top 5 Pizzas by Quantity Sold: The Classic Deluxe Pizza, The Barbecue Chicken Pizza, The Hawaiian Pizza, The Pepperoni Pizza, The Thai Chicken Pizza
 
-6.	Top 5 Pizzas by Total Orders:
-a.	The Classic Deluxe Pizza
-b.	The Hawaiian Pizza
-c.	The Pepperoni Pizza
-d.	The Barbecue Chicken Pizza
-e.	The Thai Chicken Pizza
+6.	Top 5 Pizzas by Total Orders: The Classic Deluxe Pizza, The Hawaiian Pizza, The Pepperoni Pizza, The Barbecue Chicken Pizza, The Thai Chicken Pizza
 
-Conclusion and Recommendation:
-The insights collectively show a strong sales performance with particular customer preferences towards certain pizza types, sizes, and days of the week. This information can be strategically used to optimize marketing efforts, inventory management, and customer engagement initiatives, ensuring sustained growth and customer satisfaction.
+**Conclusion and Recommendation:**
+The insights collectively show a strong sales performance with particular customer preferences towards certain pizza types, sizes, and days of the week.
+This information can be strategically used to optimize marketing efforts, inventory management, and customer engagement initiatives, ensuring sustained growth and customer satisfaction.
